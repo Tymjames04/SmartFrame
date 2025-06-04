@@ -1,0 +1,7 @@
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Smartframe/.qt/rcc/qmake_Smartframe.qrc
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Smartframe/.qt/rcc/Smartframe_raw_qml_0.qrc
+/qt/qml/Smartframe/EventListModel.qml
+/qt/qml/Smartframe/Constants.qml
+/qt/qml/Smartframe/EventListSimulator.qml

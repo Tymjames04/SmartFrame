@@ -1,0 +1,720 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "SmartframeContent/libSmartframeContent.a"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_library",
+			"qt6_add_library",
+			"qt_add_library",
+			"add_dependencies",
+			"_qt_internal_qml_copy_files_to_build_dir",
+			"qt6_target_qml_sources",
+			"qt6_add_qml_module",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"target_link_libraries",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide",
+			"qt6_finalize_target"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"SmartframeContent/CMakeLists.txt",
+			"C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:787:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 2804,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2692,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 2779,
+				"parent" : 3
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 916,
+				"parent" : 5
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3503,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2860,
+				"parent" : 7
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 3497,
+				"parent" : 6
+			},
+			{
+				"command" : 4,
+				"file" : 2,
+				"line" : 2860,
+				"parent" : 9
+			},
+			{
+				"command" : 9,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 401,
+				"parent" : 11
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 2520,
+				"parent" : 12
+			},
+			{
+				"command" : 10,
+				"file" : 2,
+				"line" : 596,
+				"parent" : 5
+			},
+			{
+				"command" : 12,
+				"file" : 2,
+				"line" : 796,
+				"parent" : 5
+			},
+			{
+				"command" : 11,
+				"file" : 2,
+				"line" : 3904,
+				"parent" : 15
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 3704,
+				"parent" : 15
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 1486,
+				"parent" : 17
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3870,
+				"parent" : 15
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 850,
+				"parent" : 5
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 401,
+				"parent" : 20
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 2528,
+				"parent" : 21
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 2072,
+				"parent" : 22
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3205,
+				"parent" : 6
+			},
+			{
+				"command" : 16,
+				"file" : 2,
+				"line" : 3342,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 1696,
+				"parent" : 25
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3398,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3205,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3398,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3205,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3398,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3205,
+				"parent" : 6
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3398,
+				"parent" : 6
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 3519,
+				"parent" : 6
+			},
+			{
+				"command" : 8,
+				"file" : 0,
+				"line" : 401,
+				"parent" : 34
+			},
+			{
+				"command" : 15,
+				"file" : 0,
+				"line" : 2528,
+				"parent" : 35
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 2072,
+				"parent" : 36
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 18,
+				"file" : 3,
+				"line" : 1,
+				"parent" : 38
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 812,
+				"parent" : 39
+			},
+			{
+				"command" : 13,
+				"file" : 0,
+				"line" : 2197,
+				"parent" : 40
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=cortex-a53+crc -mbranch-protection=standard -fstack-protector-strong   -Wformat -Wformat-security -Werror=format-security --sysroot=C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 14,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "Q_TRACEPOINT"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent"
+				},
+				{
+					"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe/SmartframeContent"
+				},
+				{
+					"backtrace" : 0,
+					"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/SmartframeContent_autogen/include"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtQml/6.9.1"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtQml/6.9.1/QtQml"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtCore/6.9.1"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtCore/6.9.1/QtCore"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtCore"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/mkspecs/linux-g++"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtQml"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 16,
+					"isSystem" : true,
+					"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/include/QtNetwork"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				13
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 8,
+			"id" : "SmartframeContent_copy_res::@a1578e9c82ec32bf462a"
+		},
+		{
+			"backtrace" : 10,
+			"id" : "SmartframeContent_copy_qml::@a1578e9c82ec32bf462a"
+		},
+		{
+			"backtrace" : 13,
+			"id" : "SmartframeContent_SmartframeContentBigResource_pass2::@a1578e9c82ec32bf462a"
+		},
+		{
+			"id" : "SmartframeContent_autogen_timestamp_deps::@a1578e9c82ec32bf462a"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "SmartframeContent_autogen::@a1578e9c82ec32bf462a"
+		}
+	],
+	"id" : "SmartframeContent::@a1578e9c82ec32bf462a",
+	"name" : "SmartframeContent",
+	"nameOnDisk" : "libSmartframeContent.a",
+	"paths" : 
+	{
+		"build" : "SmartframeContent",
+		"source" : "SmartframeContent"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				5,
+				6,
+				8,
+				10,
+				12,
+				13,
+				14,
+				15,
+				16,
+				18,
+				21
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				4,
+				7,
+				9,
+				11
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				17,
+				19,
+				20
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				33,
+				34,
+				35
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/SmartframeContent_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 18,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/meta_types/qt6smartframecontent_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 19,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/smartframecontent_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 23,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qrc_qmake_SmartframeContent.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 24,
+			"path" : "SmartframeContent/News.ui.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 26,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 27,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_News.ui_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 28,
+			"path" : "SmartframeContent/Sports.ui.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 29,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_Sports.ui_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 30,
+			"path" : "SmartframeContent/App.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 31,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_App_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 32,
+			"path" : "SmartframeContent/Photos.ui.qml",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 33,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_Photos.ui_qml.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 37,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qrc_SmartframeContent_raw_qml_0.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 41,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qmake_SmartframeContent.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 41,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml/SmartframeContent/qmldir",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 41,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/SmartframeContent_raw_qml_0.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 41,
+			"path" : "SmartframeContent/images/IMG3.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 41,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/SmartframeContentBigResource.qrc",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 41,
+			"path" : "SmartframeContent/images/IMG1.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 41,
+			"path" : "SmartframeContent/images/IMG2.png",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/SmartframeContent_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/meta_types/qt6smartframecontent_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/smartframecontent_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qrc_qmake_SmartframeContent.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_News.ui_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_Sports.ui_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_App_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.rcc/qmlcache/SmartframeContent_Photos.ui_qml.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qrc_SmartframeContent_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/SmartframeContent_autogen/timestamp.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/meta_types/SmartframeContent_json_file_list.txt.rule",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/metatypes/qt6qml_release_metatypes.json",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/metatypes/qt6core_release_metatypes.json",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 14,
+			"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/metatypes/qt6network_release_metatypes.json",
+			"sourceGroupIndex" : 4
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

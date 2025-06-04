@@ -1,0 +1,62 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"Smartframe/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "QtInternalTargets"
+	},
+	"id" : "Smartframeplugin_init_autogen_timestamp_deps::@c47b80ecdad9d420fef9",
+	"isGeneratorProvided" : true,
+	"name" : "Smartframeplugin_init_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "Smartframe",
+		"source" : "Smartframe"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Smartframe/CMakeFiles/Smartframeplugin_init_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Smartframe/CMakeFiles/Smartframeplugin_init_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

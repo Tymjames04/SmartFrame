@@ -1,0 +1,10 @@
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qmake_SmartframeContent.qrc
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/SmartframeContent_raw_qml_0.qrc
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/SmartframeContentBigResource.qrc
+/qt/qml/SmartframeContent/News.ui.qml
+/qt/qml/SmartframeContent/App.qml
+/qt/qml/SmartframeContent/Sports.ui.qml
+/qt/qml/SmartframeContent/Photos.ui.qml

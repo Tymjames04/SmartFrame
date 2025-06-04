@@ -1,0 +1,11 @@
+module SmartframeContent
+linktarget SmartframeContentplugin
+optional plugin SmartframeContentplugin
+classname SmartframeContentPlugin
+typeinfo SmartframeContent.qmltypes
+prefer :/qt/qml/SmartframeContent/
+News 1.0 News.ui.qml
+App 1.0 App.qml
+Sports 1.0 Sports.ui.qml
+Photos 1.0 Photos.ui.qml
+

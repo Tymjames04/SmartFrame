@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 192,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 5
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 39,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 6
+                    }
+                ],
+                "filePath": "App.qml"
+            }
+        ],
+        "moduleId": "SmartframeContent(SmartframeContent)"
+    }
+]

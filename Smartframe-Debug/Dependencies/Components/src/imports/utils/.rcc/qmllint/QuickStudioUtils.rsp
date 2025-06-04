@@ -1,0 +1,14 @@
+--bare
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/qml
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/utils/.qt/rcc/qmake_QtQuick_Studio_Utils.qrc
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/utils/.qt/rcc/QuickStudioUtils_raw_qml_0.qrc
+C:/Folders/Stuff/Codes/Smartframe/Smartframe/Dependencies/Components/src/imports/utils/JsonListModel.qml
+C:/Folders/Stuff/Codes/Smartframe/Smartframe/Dependencies/Components/src/imports/utils/JsonBackend.qml
+C:/Folders/Stuff/Codes/Smartframe/Smartframe/Dependencies/Components/src/imports/utils/ChildListModel.qml

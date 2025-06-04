@@ -1,0 +1,172 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 12,
+                        "durationMicroseconds": 263,
+                        "errorMessage": "",
+                        "functionName": "width",
+                        "line": 148
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 13,
+                        "durationMicroseconds": 191,
+                        "errorMessage": "",
+                        "functionName": "height",
+                        "line": 149
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 29,
+                        "durationMicroseconds": 87,
+                        "errorMessage": "",
+                        "functionName": "joinStyle",
+                        "line": 160
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 56,
+                        "errorMessage": "",
+                        "functionName": "capStyle",
+                        "line": 166
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 31,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "strokeStyle",
+                        "line": 172
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 53,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "__preferredRendererTypeAvailable",
+                        "line": 219
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 42,
+                        "durationMicroseconds": 233,
+                        "errorMessage": "",
+                        "functionName": "__curveRendererActive",
+                        "line": 220
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 1908,
+                        "errorMessage": "",
+                        "functionName": "enabled",
+                        "line": 223
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 427,
+                        "errorMessage": "",
+                        "functionName": "smooth",
+                        "line": 224
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 182,
+                        "errorMessage": "",
+                        "functionName": "samples",
+                        "line": 225
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 23,
+                        "durationMicroseconds": 47,
+                        "errorMessage": "",
+                        "functionName": "fill",
+                        "line": 230
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 26,
+                        "durationMicroseconds": 54,
+                        "errorMessage": "",
+                        "functionName": "margins",
+                        "line": 231
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 19,
+                        "durationMicroseconds": 55,
+                        "errorMessage": "",
+                        "functionName": "capStyle",
+                        "line": 237
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 52,
+                        "errorMessage": "",
+                        "functionName": "strokeStyle",
+                        "line": 238
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 20,
+                        "durationMicroseconds": 41,
+                        "errorMessage": "",
+                        "functionName": "joinStyle",
+                        "line": 239
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 16,
+                        "durationMicroseconds": 203,
+                        "errorMessage": "",
+                        "functionName": "y",
+                        "line": 249
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 60,
+                        "errorMessage": "",
+                        "functionName": "font",
+                        "line": 256
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 115,
+                        "errorMessage": "",
+                        "functionName": "text",
+                        "line": 257
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 15,
+                        "durationMicroseconds": 138,
+                        "errorMessage": "",
+                        "functionName": "font",
+                        "line": 262
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 372,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 265
+                    }
+                ],
+                "filePath": "TextItem.qml"
+            }
+        ],
+        "moduleId": "QtQuick.Studio.Components(QuickStudioComponents)"
+    }
+]

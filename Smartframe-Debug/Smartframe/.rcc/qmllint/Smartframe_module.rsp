@@ -1,0 +1,12 @@
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/qml
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Smartframe/.qt/rcc/qmake_Smartframe.qrc
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Smartframe/.qt/rcc/Smartframe_raw_qml_0.qrc
+--module
+Smartframe

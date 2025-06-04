@@ -1,0 +1,2 @@
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/designeffects/.qsb/shaders/dropShadowClip.frag.qsb: \
+  C:/Folders/Stuff/Codes/Smartframe/Smartframe/Dependencies/Components/src/imports/designeffects/shaders/dropShadowClip.frag

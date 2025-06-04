@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/SmartframeContent">
+    <file alias="images/IMG2.png">C:/Folders/Stuff/Codes/Smartframe/Smartframe/SmartframeContent/images/IMG2.png</file>
+    <file alias="images/IMG1.png">C:/Folders/Stuff/Codes/Smartframe/Smartframe/SmartframeContent/images/IMG1.png</file>
+  </qresource>
+</RCC>
+

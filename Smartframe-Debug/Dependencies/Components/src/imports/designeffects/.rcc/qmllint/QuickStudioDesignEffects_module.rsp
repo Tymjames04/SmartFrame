@@ -1,0 +1,14 @@
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/qml
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/designeffects/.qt/rcc/qmake_QtQuick_Studio_DesignEffects.qrc
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/designeffects/.qt/rcc/QuickStudioDesignEffects_raw_qml_0.qrc
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/designeffects/.qt/rcc/designeffectsshaders.qrc
+--module
+QtQuick.Studio.DesignEffects

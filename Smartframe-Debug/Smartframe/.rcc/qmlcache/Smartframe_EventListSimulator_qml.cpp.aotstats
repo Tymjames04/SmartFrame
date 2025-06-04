@@ -1,0 +1,28 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": true,
+                        "column": 22,
+                        "durationMicroseconds": 7568,
+                        "errorMessage": "",
+                        "functionName": "onTriggered",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": true,
+                        "column": 28,
+                        "durationMicroseconds": 1782,
+                        "errorMessage": "",
+                        "functionName": "onCompleted",
+                        "line": 17
+                    }
+                ],
+                "filePath": "EventListSimulator.qml"
+            }
+        ],
+        "moduleId": "Smartframe(Smartframe)"
+    }
+]

@@ -1,0 +1,10 @@
+module Smartframe
+linktarget Smartframeplugin
+optional plugin Smartframeplugin
+classname SmartframePlugin
+typeinfo Smartframe.qmltypes
+prefer :/qt/qml/Smartframe/
+EventListModel 1.0 EventListModel.qml
+singleton Constants 1.0 Constants.qml
+EventListSimulator 1.0 EventListSimulator.qml
+

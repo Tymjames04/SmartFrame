@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/QtQuick/Studio/Utils">C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml/QtQuick/Studio/Utils</file>
+
+  </qresource>
+</RCC>

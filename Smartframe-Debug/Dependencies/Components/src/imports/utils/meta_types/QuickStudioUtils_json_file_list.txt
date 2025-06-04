@@ -1,0 +1,2 @@
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/include/../EWIEGA46WW/moc_quickstudiocsvtablemodel_p.cpp.json
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/utils/QuickStudioUtils_autogen/include/../EWIEGA46WW/moc_quickstudiofilereader_p.cpp.json

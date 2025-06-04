@@ -1,0 +1,11 @@
+--bare
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-I
+C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/qml
+--resource
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/Dependencies/Components/src/imports/application/.qt/rcc/qmake_QtQuick_Studio_Application.qrc
+--json
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/QuickStudioApplication_qmllint.json

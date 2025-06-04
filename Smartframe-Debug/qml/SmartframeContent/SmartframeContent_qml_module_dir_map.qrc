@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/qt/qml/SmartframeContent">C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml/SmartframeContent</file>
+
+  </qresource>
+</RCC>

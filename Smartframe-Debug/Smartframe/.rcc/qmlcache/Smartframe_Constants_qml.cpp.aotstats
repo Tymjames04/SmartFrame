@@ -1,0 +1,36 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessful": false,
+                        "column": 34,
+                        "durationMicroseconds": 175,
+                        "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
+                        "functionName": "font",
+                        "line": 12
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 39,
+                        "durationMicroseconds": 37,
+                        "errorMessage": "Cannot load property font from QtObject::application with type QQmlApplication.",
+                        "functionName": "largeFont",
+                        "line": 16
+                    },
+                    {
+                        "codegenSuccessful": false,
+                        "column": 19,
+                        "durationMicroseconds": 30,
+                        "errorMessage": "Cannot access value for name relativeFontDirectory",
+                        "functionName": "fontPath",
+                        "line": 25
+                    }
+                ],
+                "filePath": "Constants.qml"
+            }
+        ],
+        "moduleId": "Smartframe(Smartframe)"
+    }
+]

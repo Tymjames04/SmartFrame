@@ -1,0 +1,142 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "SmartframeContent/CMakeFiles/SmartframeContent_SmartframeContentBigResource_obj.dir/./.qt/rcc/qrc_SmartframeContentBigResource_tmp.cpp.o"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"_qt_internal_add_rcc_pass2",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"target_compile_definitions"
+		],
+		"files" : 
+		[
+			"C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"SmartframeContent/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 401,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 2507,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 559,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 561,
+				"parent" : 3
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-mcpu=cortex-a53+crc -mbranch-protection=standard -fstack-protector-strong   -Wformat -Wformat-security -Werror=format-security --sysroot=C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux -g -fdiagnostics-color=always"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 5,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 5,
+					"define" : "Q_TRACEPOINT"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent"
+				},
+				{
+					"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe/SmartframeContent"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0
+			],
+			"sysroot" : 
+			{
+				"path" : "C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux"
+			}
+		}
+	],
+	"id" : "SmartframeContent_SmartframeContentBigResource_obj::@a1578e9c82ec32bf462a",
+	"name" : "SmartframeContent_SmartframeContentBigResource_obj",
+	"paths" : 
+	{
+		"build" : "SmartframeContent",
+		"source" : "SmartframeContent"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qrc_SmartframeContentBigResource_tmp.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/SmartframeContent/.qt/rcc/qrc_SmartframeContentBigResource_tmp.cpp.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "OBJECT_LIBRARY"
+}

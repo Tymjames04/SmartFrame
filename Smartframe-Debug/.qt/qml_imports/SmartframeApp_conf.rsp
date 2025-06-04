@@ -1,0 +1,11 @@
+-rootPath
+C:/Folders/Stuff/Codes/Smartframe/Smartframe
+-cmake-output
+-output-file
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/.qt/qml_imports/SmartframeApp_conf.cmake
+-importPath
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/qml
+-importPath
+C:/Qt/6.9.1/Boot2Qt/raspberrypi-armv8/toolchain/sysroots/cortexa53-poky-linux/usr/lib/qml
+-qrcFiles
+C:/Folders/Stuff/Codes/Smartframe/Smartframe-Debug/.qt/rcc/configuration.qrc
